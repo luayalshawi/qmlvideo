@@ -2,7 +2,6 @@ TEMPLATE = app
 TARGET = qmlvideo
 
 QT += quick multimedia
-PKGCONFIG += Qt5GStreamer-1.0 Qt5GStreamerUi-1.0
 LOCAL_SOURCES = main.cpp
 LOCAL_HEADERS = trace.h
 
