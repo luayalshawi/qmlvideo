@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = qmlvideo
+TARGET = qml-video
 
 QT += quick multimedia
 LOCAL_SOURCES = main.cpp
