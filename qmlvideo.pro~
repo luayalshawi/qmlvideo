@@ -12,7 +12,7 @@ RESOURCES += qmlvideo.qrc
 SNIPPETS_PATH = ./snippets
 include($$SNIPPETS_PATH/performancemonitor/performancemonitordeclarative.pri)
 
-target.path = ./
+target.path = qmlvideo
 INSTALLS += target
 
 EXAMPLE_FILES += \
